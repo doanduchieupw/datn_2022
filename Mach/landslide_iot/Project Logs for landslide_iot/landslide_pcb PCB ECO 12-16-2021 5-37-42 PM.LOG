@@ -1,0 +1,3 @@
+Added Component: Designator=U?(SIM800C)
+Added Member To Class: ClassName=landslide_scm Member=Component U? SIM800C
+Added Room: Name=landslide_scm

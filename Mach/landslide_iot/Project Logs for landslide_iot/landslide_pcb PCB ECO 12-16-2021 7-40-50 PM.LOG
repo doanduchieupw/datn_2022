@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=landslide_scm Member=U?
+Removed Member From Class: ClassName=landslide_scm Member=U
+Added Component: Designator=P?(PRKR2A)
+Added Member To Class: ClassName=landslide_scm Member=Component P? MSTB2.5HC2
+Added Room: Name=landslide_scm

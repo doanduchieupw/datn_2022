@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [landslide_node.PcbDoc]
+   Generated File[2022-04-24_landslide_node.TXT]
+   Generated File[2022-04-24_landslide_node.DRL]
+   Generated File[2022-04-24_landslide_node.LDP]
+   Generated File[2022-04-24_landslide_node.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:27:55 AM On 4/24/2022

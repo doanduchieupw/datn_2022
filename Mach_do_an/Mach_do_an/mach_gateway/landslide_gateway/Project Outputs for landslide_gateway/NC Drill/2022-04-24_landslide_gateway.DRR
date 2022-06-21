@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: landslide_gateway.PcbDoc   4/24/2022  9:21:31 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 2022-04-24_landslide_gateway.TXT
+EIA File   : 2022-04-24_landslide_gateway.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             222       PTH        33.09inch (840.37mm)
+T2      32mil (0.813mm)                                           Round             8         PTH        4.03inch (102.26mm)
+T3      34mil (0.864mm)                                           Round             2         PTH        0.20inch (5.08mm)
+T4      35mil (0.899mm)                                           Round             40        PTH        11.43inch (290.26mm)
+T5      45mil (1.143mm)                                           Round             5         PTH        0.74inch (18.83mm)
+T6      50mil (1.27mm)                                            Round             4         PTH        0.85inch (21.59mm)
+T7      51mil (1.3mm)                                             Round             2         PTH        0.20inch (5.08mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              283
+
+Total Processing Time (hh:mm:ss) : 00:00:00

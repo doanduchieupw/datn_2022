@@ -1,0 +1,6 @@
+AT+MQTTUSERCFG=0,1,"esp01","landslide","oYPSNMspLlNXX5o8",0,0,""<CR><LF>
+AT+MQTTCONN=0,"landslide.cloud.shiftr.io",1883,1<CR><LF>
+AT+MQTTPUB=0,"topic","test",1,0<CR><LF>
+
+AT+CIPMUX=0<CR><LF>
+AT+CIPSTART="TCP","landslide.cloud.shiftr.io",1883<CR><LF>

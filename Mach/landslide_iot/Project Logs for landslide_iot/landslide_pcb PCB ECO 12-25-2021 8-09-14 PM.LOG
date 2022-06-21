@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=VGSM Pin=D?-2
+Removed Pin From Net: NetName=VGSM Pin=D?-C
+Removed Pin From Net: NetName=VGSM Pin=D?-C
+Change Component Comment : Designator=F? Old Comment=F1A New Comment=F2A
+Added Member To Class: ClassName=MCU_scm Member=Component C? 103
+Added Member To Class: ClassName=MCU_scm Member=Component C? 22pF
+Added Member To Class: ClassName=MCU_scm Member=Component C? 104
+Added Member To Class: ClassName=MCU_scm Member=Component C? 475
+Added Member To Class: ClassName=MCU_scm Member=Component C? 210111003
+Added Member To Class: ClassName=MCU_scm Member=Component C? 22pF
+Added Member To Class: ClassName=MCU_scm Member=Component C? 22pF
+Added Member To Class: ClassName=MCU_scm Member=Component C? 104
+Added Member To Class: ClassName=MCU_scm Member=Component C? 22pF
+Added Member To Class: ClassName=MCU_scm Member=Component C? 22pF
+Added Member To Class: ClassName=MCU_scm Member=Component C? 104
+Added Member To Class: ClassName=MCU_scm Member=Component C? 104
+Added Member To Class: ClassName=power_scm Member=Component C? 100uH/16V
+Added Member To Class: ClassName=power_scm Member=Component C? 104
+Added Member To Class: ClassName=power_scm Member=Component C? 100uH/25V
+Added Member To Class: ClassName=power_scm Member=Component C? 470uf/16V
+Added Member To Class: ClassName=power_scm Member=Component C? 103
+Added Member To Class: ClassName=power_scm Member=Component D?
+Added Member To Class: ClassName=power_scm Member=Component D? TZM4V3
+Added Member To Class: ClassName=power_scm Member=Component D? 1N5822
+Added Member To Class: ClassName=MCU_scm Member=Component LED? LED
+Added Member To Class: ClassName=MCU_scm Member=Component P? ADXL345_p1_ss
+Added Member To Class: ClassName=MCU_scm Member=Component P? soil_moisture_ss
+Added Member To Class: ClassName=MCU_scm Member=Component P? Header 4
+Added Member To Class: ClassName=MCU_scm Member=Component P? SSD1306
+Added Member To Class: ClassName=MCU_scm Member=Component P? ADXL345_p2_ss
+Added Member To Class: ClassName=MCU_scm Member=Component R? 4k7
+Added Member To Class: ClassName=MCU_scm Member=Component R? 47k
+Added Member To Class: ClassName=MCU_scm Member=Component R? 4k7
+Added Member To Class: ClassName=MCU_scm Member=Component R? 4k7
+Added Member To Class: ClassName=MCU_scm Member=Component R? 4k7
+Added Member To Class: ClassName=MCU_scm Member=Component R? 47R
+Added Member To Class: ClassName=MCU_scm Member=Component R? 4k7
+Added Member To Class: ClassName=MCU_scm Member=Component R? 4k7
+Added Member To Class: ClassName=power_scm Member=Component R? 0R
+Added Member To Class: ClassName=power_scm Member=Component R? 100R
+Added Member To Class: ClassName=MCU_scm Member=Component SW? SW
+Added Member To Class: ClassName=MCU_scm Member=Component U STM32F030CCT6
+Added Member To Class: ClassName=MCU_scm Member=Component X? 8Mhz
+Added Room: Name=MCU_scm
+Added Room: Name=power_scm

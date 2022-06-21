@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=LORA_DIO0 Pin=P9-1
+Removed Pin From Net: NetName=LORA_MOSI Pin=P9-2
+Removed Pin From Net: NetName=LORA_NSS Pin=P9-3
+Removed Pin From Net: NetName=+3V3 Pin=P9-4
+Removed Pin From Net: NetName=LORA_MISO Pin=P9-5
+Removed Pin From Net: NetName=LORA_SCK Pin=P9-6
+Removed Pin From Net: NetName=LORA_RST Pin=P9-7
+Removed Pin From Net: NetName=GND_MCU Pin=P9-8
+Added Pin To Net: NetName=GND_MCU Pin=P9-1
+Added Pin To Net: NetName=LORA_RST Pin=P9-2
+Added Pin To Net: NetName=LORA_SCK Pin=P9-3
+Added Pin To Net: NetName=LORA_MISO Pin=P9-4
+Added Pin To Net: NetName=+3V3 Pin=P9-5
+Added Pin To Net: NetName=LORA_NSS Pin=P9-6
+Added Pin To Net: NetName=LORA_MOSI Pin=P9-7
+Added Pin To Net: NetName=LORA_DIO0 Pin=P9-8
+Added Room: Name=mcu_gateway
+Added Room: Name=power_gateway

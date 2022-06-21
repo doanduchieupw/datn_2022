@@ -1,0 +1,10 @@
+DHT.c:3:6:Delay_us	16	static
+DHT.c:9:6:Delay_ms	16	static
+DHT.c:19:13:DHT_SetPinOut	48	static
+DHT.c:28:13:DHT_SetPinIn	48	static
+DHT.c:38:13:DHT_WritePin	16	static
+DHT.c:42:16:DHT_ReadPin	32	static
+DHT.c:50:16:DHT11_Start	32	static
+DHT.c:75:9:DHT11_Read	24	static
+DHT.c:102:6:DHT_Init	24	static
+DHT.c:110:6:DHT_ReadTempHum	24	static

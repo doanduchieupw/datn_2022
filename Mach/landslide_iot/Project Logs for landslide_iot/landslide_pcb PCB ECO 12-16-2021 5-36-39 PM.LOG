@@ -1,0 +1,10 @@
+Added Component: Designator=U(XCVR_SIM800A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Simcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SIM800A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SIM800A/SIMcom%20Wireless%20solutions%20Co.%2CLtd/view-part/698771/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=landslide_scm
+Added Room: Name=landslide_scm

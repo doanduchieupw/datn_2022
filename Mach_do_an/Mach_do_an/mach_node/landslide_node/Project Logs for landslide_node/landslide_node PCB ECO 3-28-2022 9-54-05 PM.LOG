@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND_MCU Pin=C20-2
+Removed Pin From Net: NetName=GND_MCU Pin=C21-2
+Removed Pin From Net: NetName=GND_MCU Pin=C22-2
+Removed Member From Class: ClassName=mcu_node Member=C20
+Removed Member From Class: ClassName=mcu_node Member=C21
+Removed Member From Class: ClassName=mcu_node Member=C22
+Removed Member From Class: ClassName=POWER Member=GND_SIM

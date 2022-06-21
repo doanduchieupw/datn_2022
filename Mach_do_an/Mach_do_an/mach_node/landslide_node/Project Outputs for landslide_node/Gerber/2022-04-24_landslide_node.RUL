@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\OneDrive_Personal\OneDrive\Works\Mach_do_an\Mach_do_an160422\Mach_do_an\Mach_do_an\mach_node\landslide_node\landslide_node.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

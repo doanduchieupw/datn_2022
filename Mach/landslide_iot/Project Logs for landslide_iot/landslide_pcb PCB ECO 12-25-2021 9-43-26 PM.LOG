@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND_MCU Pin=C?-1
+Removed Member From Class: ClassName=MCU_scm Member=C2
+Removed Member From Class: ClassName=MCU_scm Member=LED1
+Removed Member From Class: ClassName=MCU_scm Member=R2
+Removed Member From Class: ClassName=power_scm Member=U3
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Added Component: Designator=C23(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C24(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C25(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C26(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C27(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND_MCU Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND_MCU Pin=C24-2
+Added Pin To Net: NetName=GND_SIM Pin=C25-1
+Added Pin To Net: NetName=GND_MCU Pin=C25-2
+Added Pin To Net: NetName=GND_SIM Pin=C26-1
+Added Pin To Net: NetName=GND_MCU Pin=C26-2
+Added Pin To Net: NetName=GND_SIM Pin=C27-1
+Added Pin To Net: NetName=GND_MCU Pin=C27-2
+Added Member To Class: ClassName=MCU_scm Member=Component C17 104
+Added Member To Class: ClassName=power_scm Member=Component C22 104
+Added Member To Class: ClassName=power_scm Member=Component C23 104
+Added Member To Class: ClassName=power_scm Member=Component C24 104
+Added Member To Class: ClassName=MCU_scm Member=Component C25 104
+Added Member To Class: ClassName=MCU_scm Member=Component C26 104
+Added Member To Class: ClassName=MCU_scm Member=Component C27 104
+Added Member To Class: ClassName=power_scm Member=Component D1 1N5822
+Added Member To Class: ClassName=MCU_scm Member=Component LED2 LED
+Added Member To Class: ClassName=MCU_scm Member=Component R10 47R
+Added Member To Class: ClassName=MCU_scm Member=Component SW2 SW
+Added Member To Class: ClassName=power_scm Member=Component U AMS1117-3.3
+Added Room: Name=MCU_scm
+Added Room: Name=power_scm
